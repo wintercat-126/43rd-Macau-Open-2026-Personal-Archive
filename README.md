@@ -1,52 +1,62 @@
-# ♟️ 43rd Macau Chess Open 2026 - Personal Archive
+# ♟️ 43rd Macau Chess Open 2026 — Personal Archive
 
-Welcome to the official repository for my unofficial personal archive and live broadcast tracker for the **43rd Macau Chess Open 2026**, held at the Cotai Bowling Centre, Macau[cite: 1].
+Welcome to the unofficial personal repository and documentation archive for the **43rd Macau Chess Open 2026**, held at the Cotai Bowling Centre, Macau.
 
-This repository serves as a centralized, manually curated backup of tournament PGN files, missing game logs, and broadcast configurations.
+This repository serves as a manually curated collection of tournament rounds, transcribed PGN game files, missing game logs, and live broadcast configurations.
 
 ---
 
 ## 📂 Repository Structure
 
-```text
-├── Tournament Information & Games/
-│   ├── Round 1/
-│   │   └── Round_1.pgn
-│   ├── Round 2/
-│   │   └── Round_2.pgn
-│   ├── Round 3/
-│   │   └── Round_3.pgn
-│   ├── Round 4/
-│   │   └── Round_4.pgn
-│   ├── Round 5/
-│   │   └── Round_5.pgn
-│   └── Round 6/
-│       └── Round_6.pgn
-└── missing-games.md
-```
+    📁 43rd-Macau-Open-2026-Personal-Archive/
+    │
+    ├── 📁 Tournament Information & Games/
+    │   ├── 📁 Round 1/
+    │   │   └── 📄 Round_1.pgn
+    │   ├── 📁 Round 2/
+    │   │   └── 📄 Round_2.pgn
+    │   ├── 📁 Round 3/
+    │   │   └── 📄 Round_3.pgn
+    │   ├── 📁 Round 4/
+    │   │   └── 📄 Round_4.pgn
+    │   ├── 📁 Round 5/
+    │   │   └── 📄 Round_5.pgn
+    │   ├── 📁 Round 6/
+    │   │   └── 📄 Round_6.pgn
+    │   └── ... (Upcoming Rounds)
+    │
+    ├── 📄 missing-games.md
+    └── 📄 README.md
 
 ---
 
-## 🌐 Lichess Broadcast Integration
+## 🔍 Tournament Overview & Specifications
 
-To bypass limitations with physical board tracking and unranked local tournaments, this archive features a custom Lichess community broadcast setup:
-* **Federation Assignment:** All players are explicitly tagged under the Macau (`MAC`) federation override in the PGN structure[cite: 2, 16].
-* **Name Normalization:** Custom Lichess name overrides are utilized to ensure proper display formatting for single-name players (e.g., *Thomas*, *Martin*)[cite: 16].
-* **Rating Suppression:** Unofficial or offline ratings are intentionally filtered out on the broadcast view for a cleaner, modern tournament presentation[cite: 16].
-
----
-
-## 📋 Missing Game Log
-
-For full transparency, any games affected by forfeits, missing or uncollected scoresheets, and illegal or incomplete moves are tracked in detail inside the [Missing Game Log](./missing-games.md)[cite: 16].
+* **Event Name:** 43rd Macau Chess Open 2026
+* **Venue:** Cotai Bowling Centre, Macau
+* **Format:** Over-the-board classical chess tournament (Manual PGN transcription)
+* **Federation Metadata:** Because this is a non-FIDE local event, all players are explicitly assigned the Macau country code (`[WhiteCountry "MAC"]` and `[BlackCountry "MAC"]`) in the PGN headers to ensure accurate flag display during broadcasts.
+* **Data Integrity & Logs:** Non-standard game outcomes—including forfeits, incomplete scoresheets, and notation discrepancies—are tracked round-by-round in the [Missing Game Log](./missing-games.md).
 
 ---
 
-## 📅 Tournament Schedule & Status
+## 📡 Lichess Broadcast Integration
 
-* **Total Rounds:** 6 (Completed) / 7 (Upcoming)
-* **Location:** Cotai Bowling Centre, Macau[cite: 1]
-* **Time Control:** 90+30 (`5400+30`)[cite: 1, 2]
+Live and archived rounds are synchronized with a community broadcast on Lichess for easy viewing and engine analysis:
+
+* **Broadcast Hub:** [Lichess Community Broadcasts](https://lichess.org/broadcast) *(Managed by `MynameisnotSam`)*
+* **Player Display Overrides:** Custom Lichess override rules (`Player / / / 0 / Player`) are applied to prevent single-name duplication (e.g., *Thomas*, *Martin*) and hide unintended external ratings for a uniform, unrated tournament presentation.
 
 ---
-*Maintained independently for personal archiving and community broadcasting.*
+
+## 📋 Missing Game Log Summary
+
+For detailed round-by-round tables covering omitted games, forfeits, and scoresheets currently under review, please check the [Missing Game Log](./missing-games.md).
+
+---
+
+## ⚙️ Maintenance & Disclaimer
+
+This repository is an **unofficial personal archive** maintained independently. All PGN files are transcribed and reviewed manually following the conclusion of each round.
+
+> **Last Updated:** November 2026
