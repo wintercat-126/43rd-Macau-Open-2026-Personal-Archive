@@ -13,3 +13,7 @@ All raw PGN files (organized by round), missing game logs, and additional tourna
 - Please keep this broadcast link private and for personal viewing only.
 
 Thanks!
+
+---
+
+> **Last Update:** 13/11/2026 20:42 p.m.
