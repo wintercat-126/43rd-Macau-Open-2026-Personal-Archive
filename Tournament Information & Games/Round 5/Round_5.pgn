@@ -1,0 +1,300 @@
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.31"]
+[Round "5"]
+[White "David"]
+[Black "Tyler"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "1-0"]
+[Termination "White Won by checkmate"]
+[TimeControl "5400+30"]
+[Board "1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 a6 4. cxd5 exd5 5. Nf3 c6 6. Bf4 Bd6 7. Bxd6 Qxd6 8. e3
+Ne7 9. Be2 O-O 10. a4 a5 11. O-O Bf5 12. Nh4 Qf6 13. Nxf5 Nxf5 14. Bd3 Nd6
+15. Qg4 Qh6 16. Ne2 f5 17. Qg3 Nd7 18. Rfe1 Rad8 19. Nf4 Nf6 20. f3 Rfe8 21. Re2
+Kh8 22. Rae1 Re7 23. Nh3 g6 24. Ng5 Qg7 25. h4 Nh5 26. Qh2 Qf6 27. g4 Ng7
+28. Qg3 Rde8 29. Nh3 fxg4 30. fxg4 Ne4 31. Bxe4 Rxe4 32. Rf2 Qe7 33. Ng5 Qb4
+34. Ref1 h6 35. Nxe4 Rxe4 36. Rf8+ Kh7 37. R8f7 Re7 38. h5 g5 39. Qf3 Rxf7
+40. Qxf7 Qd6 41. Rf3 Qb4 42. Qg6+ Kg8 43. Qc2 Qe1+ 44. Kg2 b5 45. Qf2 Qb1
+46. Rf8+ Kh7 47. Qf7 Qe4+ 48. Kf2 bxa4 49. Qg8# 1-0
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.31"]
+[Round "5"]
+[White "Elvan"]
+[Black "Andy"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "0-1"]
+[Termination "Black Won by resignation"]
+[TimeControl "5400+30"]
+[Board "2"]
+
+1. e4 e6 2. b3 d5 3. Bb2 d4 4. Nf3 c5 5. Bb5+ Bd7 6. Bxd7+ Qxd7 7. d3 Nc6
+8. Nbd2 Nf6 9. Nc4 Be7 10. O-O O-O 11. Nfe5 Qc7 12. Nxc6 Qxc6 13. e5 Nd5 14. Qd2
+Qc7 15. Rac1 b5 16. Na3 Qxe5 17. Nxb5 Bg5 18. Rce1 Qxh2+ 19. Kxh2 Bxd2 20. Re2
+Bg5 21. c4 Nb4 22. Ba3 Nxd3 23. Rd1 Nb4 24. Bxb4 cxb4 25. Rxd4 Be7 26. Rd7 Bc5
+27. f3 Rfd8 28. Red2 Rxd7 29. Rxd7 g6 30. Nd6 Rf8 31. Ne4 Be3 32. Rb7 f5 33. Ng3
+Bb6 34. Rd7 Rd8 35. Rxd8+ Bxd8 36. Ne2 Kf7 37. f4 Kf6 38. Nd4 Bb6 39. Nc6 Bc5
+40. Kg3 h6 41. Kf3 g5 42. g3 h5 43. Ne5 Bd4 44. Nd3 a5 45. c5 gxf4 46. gxf4 Ke7
+47. Kg3 Kf6 48. c6 Bb6 49. Ne5 Kg7 50. Kh4 Kh6 51. Nd7 Bd8+ 0-1
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.31"]
+[Round "5"]
+[White "Hazel"]
+[Black "Thomas"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "1-0"]
+[Termination "White Won by checkmate"]
+[TimeControl "5400+30"]
+[Board "4"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 h6 6. a3 a5 7. Be3 Bd4 8. Bxd4
+Nxd4 9. Nxe5 O-O 10. Nf3 c5 11. Nxd4 cxd4 12. Nd5 d6 13. O-O Be6 14. Nxf6+ Qxf6
+15. b3 Bxc4 16. bxc4 Rab8 17. a4 b6 18. f4 Qd8 19. f5 f6 20. Rf4 Kh8 21. Rg4 Rf7
+22. Kh1 Qe7 23. Rb1 Qd7 24. Rb5 Re7 25. Qg1 Re5 26. Qxd4 Rxb5 27. cxb5 Qc7
+28. c4 Rd8 29. g3 Rd7 30. Rf4 Rf7 31. h4 Kh7 32. Rf1 h5 33. Kg2 Kh8 34. Qe3 Re7
+35. Qf3 Qc5 36. Qxh5+ Kg8 37. Qd1 Qe3 38. Rf3 Qd4 39. Qg1 Qb2+ 40. Kh3 Qe2
+41. Qf2 Qd1 42. g4 Qxa4 43. Qxb6 Qd1 44. Qe3 a4 45. d4 a3 46. Rf2 Ra7 47. Ra2
+Qa4 48. b6 Rb7 49. Rxa3 Qxc4 50. Qb3 Qxb3+ 51. Rxb3 Kf7 52. g5 Ke7 53. gxf6+
+Kxf6 54. Kg4 g6 55. fxg6 Kxg6 56. e5 dxe5 57. dxe5 Kf7 58. Kf5 Ke7 59. h5 Kf7
+60. e6+ Ke7 61. h6 Kf8 62. Kf6 Ke8 63. h7 Rxh7 64. b7 Rxb7 65. Rxb7 Kd8 66. e7+
+Ke8 67. Rb8+ Kd7 68. Kg6 Kxe7 69. Rb6 Kd7 70. Kf6 Kc7 71. Re6 Kd7 72. Kf7 Kd8
+73. Re7 Kc8 74. Ke6 Kd8 75. Kd6 Kc8 76. Rd7 Kb8 77. Kc6 Kc8 78. Kd6 Kb8 79. Rc7
+Ka8 80. Kc6 Kb8 81. Kb6 Ka8 82. Rc8# 1-0
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.31"]
+[Round "5"]
+[White "Julian"]
+[Black "Kyle Tang"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "0-1"]
+[Termination "Black Won by checkmate"]
+[TimeControl "5400+30"]
+[Board "5"]
+
+1. d4 e6 2. Bf4 d5 3. e3 Nf6 4. Nf3 c6 5. Bd3 Bd6 6. Bg3 Qc7 7. Nbd2 Nbd7 8. c3
+e5 9. Qe2 e4 10. Ng5 exd3 11. Qxd3 h6 12. Ngf3 c5 13. e4 c4 14. Qe3 Bxg3
+15. hxg3 O-O 16. e5 Re8 17. Qf4 Nh7 18. O-O-O f6 19. Qg4 Nxe5 20. Qh5 Nd3+
+21. Kb1 Be6 22. Qg6 Bf7 23. Qg4 Qb6 24. b3 cxb3 25. Nxb3 Nxf2 26. Qf5 Nxd1
+27. Rxd1 Rac8 28. Qd3 Bh5 29. Kc2 Bxf3 30. Qxf3 Qe6 31. Kd2 Ng5 32. Qf1 Qe3+
+33. Kc2 Qxc3+ 34. Kb1 Qc2+ 35. Ka1 Re2 36. Rd2 Rxd2 37. Nxd2 Qxd2 38. Kb1 Qb4+
+39. Ka1 Qxd4+ 40. Kb1 Ne4 41. Qe1 Nd2+ 42. Qxd2 Qxd2 43. g4 Qc2+ 44. Ka1 Qc1# 0-1
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.31"]
+[Round "5"]
+[White "Ezra"]
+[Black "Anderson"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "0-1"]
+[Termination "Black Won by resignation"]
+[TimeControl "5400+30"]
+[Board "6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 d5 5. exd5 Nxd5 6. Qe2 Bg4 7. c3 Be7
+8. Nbd2 O-O 9. h3 Nf4 10. Qf1 Bf5 11. Ne4 Rb8 12. Bxf4 exf4 13. O-O-O b5 14. Bb3
+a5 15. g4 Bg6 16. a4 b4 17. c4 Nd4 18. Nxd4 Qxd4 19. h4 h6 20. h5 Bh7 21. Qg2
+Rbd8 22. Rhe1 Rfe8 23. Bc2 b3 24. Bb1 Bb4 25. Re2 Re7 26. f3 Red7 27. Qf2 Qxc4+
+28. Bc2 bxc2 29. Rxc2 Qa2 30. Nc3 Qa1+ 31. Nb1 Bxd3 0-1
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.31"]
+[Round "5"]
+[White "Alfred"]
+[Black "Charles"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "1-0"]
+[Termination "White Won by checkmate"]
+[TimeControl "5400+30"]
+[Board "8"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 b6 6. Be3 Bb7 7. Nc3 Ne7
+8. f4 Nc6 9. Qd2 Bb4 10. O-O-O O-O 11. Bd3 Ne7 12. a3 Bxc3 13. Qxc3 d5 14. Qe1
+Qe8 15. e5 Rd8 16. Rg1 Ng6 17. h4 Qe7 18. h5 Nh8 19. g4 d4 20. Bxd4 Rxd4
+21. Bxh7+ Kxh7 22. Rxd4 Rd8 23. Rxd8 Qxd8 24. Qd2 Qxd2+ 25. Kxd2 Bd5 26. Ke3 g6
+27. Kd4 c6 28. c4 Be6 29. Ke4 Kg7 30. b3 f5+ 31. exf6+ Kxf6 32. g5+ Kg7 33. h6+
+Kh7 34. Rd1 Bf5+ 35. Ke5 Nf7+ 36. Kf6 Kg8 37. h7+ Kf8 38. Rd8+ Nxd8 39. h8=R# 1-0
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.31"]
+[Round "5"]
+[White "Joao Roxo"]
+[Black "Hayden"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "1-0"]
+[Termination "White Won by resignation"]
+[TimeControl "5400+30"]
+[Board "9"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 Nf6 6. O-O Bc5 7. e5 d5 8. exf6
+dxc4 9. Qe2+ Be6 10. fxg7 Rg8 11. Bg5 Be7 12. Rd1 Qc8 13. Nxc3 Bxg5 14. Nxg5
+Rxg7 15. Qh5 Bg4 16. Re1+ Ne7 17. Qh4 Qf5 18. Nxh7 Qd7 19. Nf6+ 1-0
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.31"]
+[Round "5"]
+[White "Nelson"]
+[Black "Antonio"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "1-0"]
+[Termination "White Won by resignation"]
+[TimeControl "5400+30"]
+[Board "11"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 h6 6. Bf4 c6 7. e3 Nbd7 8. c5 b6
+9. b4 a5 10. a3 O-O 11. Bd3 axb4 12. axb4 Rxa1 13. Qxa1 bxc5 14. bxc5 Re8
+15. Qa7 Ne4 16. Bc7 Ne5 17. Nxe5 Nxc3 18. Bxd8 Rxd8 19. Qxe7 1-0
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.31"]
+[Round "5"]
+[White "McKenna"]
+[Black "Reve"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "0-1"]
+[Termination "Black Won by resignation"]
+[TimeControl "5400+30"]
+[Board "13"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 e5 4. Nxe4 Bf5 5. Nbc3 Nc6 6. Bc4 Be7 7. d3 Nf6
+8. f3 Bb4 9. Nxf6+ Qxf6 10. Qe2 Nd4 11. Qd2 Qh4+ 12. Kd1 O-O 13. h3 Qg3 14. a3
+Bxc3 15. bxc3 Nxf3 16. Qe2 Nh4 17. Qh5 Bg6 18. Qg4 Qxg2 19. Qxg2 Nxg2 20. Rb1 b6
+21. Rg1 Nh4 22. d4 exd4 23. cxd4 Rad8 24. d5 Bh5+ 25. Ke1 Nf3+ 26. Kf1 Nxg1
+27. Kxg1 Rfe8 28. Bb5 Re1+ 0-1
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.31"]
+[Round "5"]
+[White "Martin"]
+[Black "Serena"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "1-0"]
+[Termination "White Won by resignation"]
+[TimeControl "5400+30"]
+[Board "14"]
+
+1. d4 d5 2. c4 dxc4 3. e4 b5 4. a4 bxa4 5. Qxa4+ Bd7 6. Qxc4 e6 7. Nc3 Be7
+8. Bf4 Nf6 9. Bxc7 Qc8 10. Bxb8 Qxb8 11. Rb1 O-O 12. Nf3 Bb4 13. Bd3 Bxc3+
+14. bxc3 Qf4 15. e5 Ne4 16. O-O f6 17. Bxe4 Qxe4 18. Rfe1 Qg6 19. d5 fxe5
+20. Nxe5 Qe8 21. Nxd7 Qxd7 22. Rxe6 Rab8 23. Rbe1 Qf7 24. Qe2 Qf5 25. d6 Rb1
+26. g4 Rxe1+ 27. Qxe1 Qxg4+ 28. Kf1 Qc4+ 29. Qe2 Qxc3 30. d7 Qc1+ 31. Qe1 Qc4+
+32. Re2 h6 33. Qd2 Qc6 34. Re8 Qc4+ 35. Ke1 Rxe8+ 36. dxe8=Q+ Kh7 37. Qee2 Qa4
+38. Qc2+ Qxc2 39. Qxc2+ Kg8 40. Qa2+ Kh7 41. Qxa7 1-0
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.31"]
+[Round "5"]
+[White "Hinhin"]
+[Black "Aidan"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "1-0"]
+[Termination "White Won by checkmate"]
+[TimeControl "5400+30"]
+[Board "16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 Ng4 7. cxd4 Bb6 8. O-O
+Na5 9. Bd3 O-O 10. h3 Nh6 11. Ng5 g6 12. Nc3 Bxd4 13. Re1 Bxc3 14. bxc3 d6 15.
+exd6 Qxd6 16. Ne4 Qe6 17. Bxh6 Rd8 18. Ng5 Rxd3 19. Qxd3 Qc6 20. Qe3 Bd7 21. Qe5
+Re8 22. Qg7# 1-0
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.31"]
+[Round "5"]
+[White "Jicarus"]
+[Black "Rafael"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "0-1"]
+[Termination "Black Won by resignation"]
+[TimeControl "5400+30"]
+[Board "17"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Nc6 4. Nf3 d6 5. Ng5 d5 6. exd5 Ne7 7. Bb5+ c6
+8. dxc6 bxc6 9. Bxc6+ Nxc6 10. O-O Bc5 11. d4 exd4 12. Re1+ Be6 13. Nce4 Nxe4
+14. Nxe4 O-O 15. Nxc5 Qd5 16. Nxe6 fxe6 17. Qg4 Rae8 18. Bh6 Rf7 19. Re2 g6
+20. Rae1 Rfe7 21. Bg5 h5 22. Qh3 Qxg5 23. Rxe6 Rxe6 24. f4 Rxe1+ 0-1
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.31"]
+[Round "5"]
+[White "Louis"]
+[Black "Rory"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "0-1"]
+[Termination "Black Won by checkmate"]
+[TimeControl "5400+30"]
+[Board "18"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nc3 Nf6 4. d3 Bc5 5. Bg5 d6 6. Nd5 O-O 7. Qf3 Bg4 8.
+Nxf6+ Qxf6 9. Qxg4 Qg6 10. Qf5 Nd4 11. O-O-O Nxf5 12. Bd2 Qxg2 13. Ne2 Bxf2 14.
+Bd5 c6 15. Bb3 d5 16. exf5 Rfe8 17. c4 d4 18. Rdf1 Be3 19. Bxe3 dxe3 20. Bd1 b5
+21. cxb5 cxb5 22. f6 Rac8+ 23. Kb1 gxf6 24. Rhg1 Qxg1 25. Rxg1+ Kf8 26. Nc3 Rb8
+27. Nd5 a5 28. Nxf6 a4 29. Rg8+ Ke7 30. Rxe8+ Rxe8 31. Nxe8 Kxe8 32. b3 axb3 33.
+axb3 Kd7 34. Kc2 b4 35. Be2 Kd6 36. Kd1 Kd5 37. Ke1 f5 38. Kf1 e4 39. dxe4+ Kxe4
+40. h4 f4 41. Kg2 f3+ 42. Bxf3+ Kd3 43. Kf1 Kc3 44. Bd5 Kd2 45. Bc4 h5 46. Kg2
+e2 47. Bxe2 Kxe2 48. Kg3 Ke3 49. Kg2 Kf4 50. Kh3 Kf3 51. Kh2 Kg4 52. Kg2 Kxh4
+53. Kh2 Kg4 54. Kg2 h4 55. Kh2 h3 56. Kh1 Kf3 57. Kh2 Ke3 58. Kxh3 Kd3 59. Kg3
+Kc3 60. Kf3 Kxb3 61. Ke2 Kc2 62. Ke1 b3 63. Ke2 b2 64. Ke3 b1=Q 65. Kf3 Qe1 66.
+Kg2 Kd2 67. Kf3 Qe3+ 68. Kg2 Ke2 69. Kh2 Kf2 70. Kh1 Qh3# 0-1
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.31"]
+[Round "5"]
+[White "Fernando"]
+[Black "Miles"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "0-1"]
+[Termination "Black Won by resignation"]
+[TimeControl "5400+30"]
+[Board "19"]
+
+1. e4 c6 2. Nc3 d5 3. Bd3 e5 4. Nf3 Bg4 5. O-O d4 6. Nb1 Qf6 7. Be2 Bxf3 8. Bxf3
+Qe7 9. d3 Nf6 10. c3 Rg8 11. cxd4 exd4 12. Nd2 g5 13. Bh5 g4 14. e5 Nxh5 15. Re1
+Qe6 16. Ne4 Qd5 17. Bg5 h6 18. Bf6 Be7 19. Bxe7 Kxe7 20. Rc1 Nd7 21. e6 fxe6
+22. b3 Nhf6 23. Nxf6 Kxf6 24. Qe2 Qe5 25. Qxe5+ Nxe5 26. Rc5 Nxd3 0-1
+
+[Event "Macau Open 2026"]
+[Site "Cotai Bowling Centre, Macau"]
+[Date "2026.10.31"]
+[Round "5"]
+[White "Matias"]
+[Black "Gabriel"]
+[WhiteCountry "MAC"]
+[BlackCountry "MAC"]
+[Result "0-1"]
+[Termination "Black Won by resignation"]
+[TimeControl "5400+30"]
+[Board "20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. O-O O-O 6. Re1 d6 7. Nd5 Bg4 8. h3
+Bh5 9. d3 Nxd5 10. exd5 Nd4 11. g4 Bg6 12. Bg5 Nxf3+ 13. Qxf3 Qxg5 14. Qg3 f5
+15. h4 Qxg4 16. Qxg4 fxg4 17. c3 Bxf2+ 0-1
