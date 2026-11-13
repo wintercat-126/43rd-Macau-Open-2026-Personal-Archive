@@ -168,30 +168,6 @@ Nf7+ Qxf7 28. Qxf7 Rg8 29. Qf6+ Kh7 30. Re7+ Rg7 31. Qxg7# 1-0
 [Site "Cotai Bowling Centre, Macau"]
 [Date "2026.11.07"]
 [Round "6"]
-[White "Martin"]
-[Black "Nelson"]
-[WhiteCountry "MAC"]
-[BlackCountry "MAC"]
-[Result "1/2-1/2"]
-[Termination "Draw by agreement"]
-[TimeControl "5400+30"]
-[Board "10"]
-
-1. d4 d5 2. c4 c6 3. Nc3 Bf5 4. Qb3 Qd7 5. cxd5 Nf6 6. dxc6 Nxc6 7. Nf3 e6 8. e3
-a6 9. Be2 Bd6 10. O-O O-O 11. Nh4 Bg6 12. Nxg6 hxg6 13. Rd1 Qc7 14. h3 Rfe8
-15. e4 e5 16. dxe5 Bxe5 17. Be3 Bxc3 18. Qxc3 Nxe4 19. Qc2 Qe7 20. Bf3 Nb4
-21. Qb1 Nf6 22. a3 Nc6 23. Qc2 Rac8 24. Qb3 b5 25. Rac1 Na5 26. Qa2 Nc4 27. Bg5
-Qe5 28. Bxf6 Qxf6 29. b3 Ne5 30. Bb7 Rxc1 31. Rxc1 Qe7 32. Bd5 Rd8 33. b4 Qf6
-34. Rd1 Kf8 35. Qc2 Qe7 36. Qc5 Qxc5 37. bxc5 Rc8 38. Rc1 Nd3 39. Rc3 Nxc5
-40. Bb7 Rc7 41. Bf3 Ke7 42. Kf1 Kd6 43. Ke2 Ne6 44. Rd3+ Ke7 45. Re3 Rc5 46. Bb7
-a5 47. Ba6 b4 48. axb4 axb4 49. Kd3 b3 50. Bc4 b2 51. Re1 Kf6 52. Rb1 Nf4+
-53. Kd4 Rc6 54. g3 Nxh3 55. Rxb2 Ng5 56. Bd3 Rd6+ 57. Ke3 Re6+ 58. Kd2 Nh3
-59. Kc3 Ng5 60. f3 Nh7 61. Kd4 g5 1/2-1/2
-
-[Event "Macau Open 2026"]
-[Site "Cotai Bowling Centre, Macau"]
-[Date "2026.11.07"]
-[Round "6"]
 [White "Kyle Ho"]
 [Black "Hinhin"]
 [WhiteCountry "MAC"]
