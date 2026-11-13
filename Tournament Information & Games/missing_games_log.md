@@ -101,4 +101,4 @@ This document tracks all games from the **43rd Macau Chess Open 2026** that enco
 
 ---
 
-> **Last Update:** 13/11/2026 15:12 p.m.
+> **Last Update:** 13/11/2026 15:42 p.m.
