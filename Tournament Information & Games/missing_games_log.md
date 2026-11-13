@@ -93,4 +93,4 @@ This document tracks all games from the **43rd Macau Chess Open 2026** that enco
 
 ---
 
-> **Note:** Games marked as *Currently under review* are being checked against player notes and may be updated if valid records are recovered.
+> **Last Update:** 13/11/2026 15:12 p.m.
