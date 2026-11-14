@@ -91,7 +91,7 @@ This document tracks all games from the **43rd Macau Chess Open 2026** that enco
 | :---: | :---: | :---: | :---: |
 | **Board 05** | Anderson --- Jason | Missing or illegal moves | 🔍 Currently under review |
 | **Board 10** | Martin --- Nelson | Uncompleted game score | 🔍 Currently under review |
-| **Board 16** | Gabriel --- Serena | Uncompleted game score | 🔍 Currently under review |
+| **Board 16** | Gabriel Lo --- Serena | Uncompleted game score | 🔍 Currently under review |
 | **Board 19** | Aidan --- Jicarus | Forfeit (+ : -) | 🛑 Game Omitted |
 
 - **Status Summary:**
@@ -113,4 +113,4 @@ This document tracks all games from the **43rd Macau Chess Open 2026** that enco
 
 ---
 
-> **Last Update:** 14/11/2026 11:02 p.m.
+> **Last Update:** 14/11/2026 11:11 p.m.
