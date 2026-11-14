@@ -91,14 +91,13 @@ This document tracks all games from the **43rd Macau Chess Open 2026** that enco
 | :---: | :---: | :---: | :---: |
 | **Board 5** | Anderson vs. Jason | Missing or illegal moves | 🔍 Currently under review |
 | **Board 10** | Martin vs. Nelson | Possible uncompletion | 🔍 Currently under review |
-| **Board 14** | Charles vs. Miles | No scoresheet in hand | 🔍 Currently under review |
 | **Board 16** | Gabriel vs. Serena | Possible uncompletion | 🔍 Currently under review |
 | **Board 19** | Aidan vs. Jicarus | Forfeit (+ : -) | 🛑 Game Omitted |
 
 - **Status Summary:**
   - 🛑 1 Game Omitted
-  - 🔍 4 Games Currently under review
+  - 🔍 3 Games Currently under review
 
 ---
 
-> **Last Update:** 13/11/2026 15:42 p.m.
+> **Last Update:** 14/11/2026 22:00
