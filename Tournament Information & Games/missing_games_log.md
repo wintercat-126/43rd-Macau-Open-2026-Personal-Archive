@@ -17,9 +17,9 @@ This document tracks all games from the **43rd Macau Chess Open 2026** that enco
 ## Round 1
 | Board No | Matchup | Issue | Status |
 | :---: | :---: | :---: | :---: |
-| **Board 12** | Matias vs. Serena | Uncompleted game score | 🛑 Game Omitted |
-| **Board 14** | McKenna vs. Matthew Wong | Missing or illegal moves | 🔍 Currently under review |
-| **Board 19** | Gabriel Lo vs. Rory | Missing or illegal moves | 🔍 Currently under review |
+| **Board 12** | Matias --- Serena | Uncompleted game score | 🛑 Game Omitted |
+| **Board 14** | McKenna --- Matthew Wong | Missing or illegal moves | 🔍 Currently under review |
+| **Board 19** | Gabriel Lo --- Rory | Missing or illegal moves | 🔍 Currently under review |
 
 - **Status Summary:**
   - 🛑 1 Game Omitted
@@ -30,10 +30,10 @@ This document tracks all games from the **43rd Macau Chess Open 2026** that enco
 ## Round 2
 | Board No | Matchup | Issue | Status |
 | :---: | :---: | :---: | :---: |
-| **Board 3** | Julian vs. Benson | Forfeit (+ : -) | 🛑 Game Omitted |
-| **Board 10** | Rory vs. Jason | Missing or illegal moves | 🔍 Currently under review |
-| **Board 11** | Sixing Li vs. Mike Ng | Forfeit (+ : -) | 🛑 Game Omitted |
-| **Board 12** | Chase vs. McKenna | Forfeit (- : +) | 🛑 Game Omitted |
+| **Board 03** | Julian --- Benson | Forfeit (+ : -) | 🛑 Game Omitted |
+| **Board 10** | Rory --- Jason | Missing or illegal moves | 🔍 Currently under review |
+| **Board 11** | Sixing Li --- Mike Ng | Forfeit (+ : -) | 🛑 Game Omitted |
+| **Board 12** | Chase --- McKenna | Forfeit (- : +) | 🛑 Game Omitted |
 
 - **Status Summary:**
   - 🛑 3 Games Omitted
@@ -44,9 +44,9 @@ This document tracks all games from the **43rd Macau Chess Open 2026** that enco
 ## Round 3
 | Board No | Matchup | Issue | Status |
 | :---: | :---: | :---: | :---: |
-| **Board 9** | Remy Chan vs. McKenna | Forfeit (- : +) | 🛑 Game Omitted |
-| **Board 19** | Aden vs. Kobe Ho | Forfeit (- : +) | 🛑 Game Omitted |
-| **Board 22** | Jicarus vs. Antonio | Missing or illegal moves | 🔍 Currently under review |
+| **Board 09** | Remy Chan --- McKenna | Forfeit (- : +) | 🛑 Game Omitted |
+| **Board 19** | Aden --- Kobe Ho | Forfeit (- : +) | 🛑 Game Omitted |
+| **Board 22** | Jicarus --- Antonio | Missing or illegal moves | 🔍 Currently under review |
 
 - **Status Summary:**
   - 🛑 2 Games Omitted
@@ -57,12 +57,12 @@ This document tracks all games from the **43rd Macau Chess Open 2026** that enco
 ## Round 4
 | Board No | Matchup | Issue | Status |
 | :---: | :---: | :---: | :---: |
-| **Board 6** | Charles vs. Jason | Missing or illegal moves | 🔍 Currently under review |
-| **Board 10** | Ezra vs. Lon | Forfeit (+ : -) | 🛑 Game Omitted |
-| **Board 12** | Remy Chan vs. Luka | Missing or illegal moves | 🔍 Currently under review |
-| **Board 13** | Serena vs. Hinhin | Forfeit (= : =) | 🛑 Game Omitted |
-| **Board 16** | Katrina vs. Fernando | Missing or illegal moves | 🔍 Currently under review |
-| **Board 19** | Kyle Ho vs. Alvin Cheang | Forfeit (+ : -) | 🛑 Game Omitted |
+| **Board 06** | Charles --- Jason | Missing or illegal moves | 🔍 Currently under review |
+| **Board 10** | Ezra --- Lon | Forfeit (+ : -) | 🛑 Game Omitted |
+| **Board 12** | Remy Chan --- Luka | Missing or illegal moves | 🔍 Currently under review |
+| **Board 13** | Serena --- Hinhin | Forfeit (= : =) | 🛑 Game Omitted |
+| **Board 16** | Katrina --- Fernando | Missing or illegal moves | 🔍 Currently under review |
+| **Board 19** | Kyle Ho --- Alvin Cheang | Forfeit (+ : -) | 🛑 Game Omitted |
 
 - **Status Summary:**
   - 🛑 3 Games Omitted
@@ -73,12 +73,12 @@ This document tracks all games from the **43rd Macau Chess Open 2026** that enco
 ## Round 5
 | Board No | Matchup | Issue | Status |
 | :---: | :---: | :---: | :---: |
-| **Board 3** | Jason vs. Benson | No scoresheet in hand | 🔍 Currently under review |
-| **Board 7** | Matthew Wong vs. Alex | Forfeit (+ : -) | 🛑 Game Omitted |
-| **Board 10** | Sixing Li vs. Remy Chan | No scoresheet in hand | 🔍 Currently under review |
-| **Board 12** | Kobe Ho vs. Katrina | Forfeit (+ : -) | 🛑 Game Omitted |
-| **Board 15** | Kyle Ho vs. Luka | Missing or illegal moves | 🔍 Currently under review |
-| **Board 21** | Theo vs. Aden | Forfeit (- : +) | 🛑 Game Omitted |
+| **Board 03** | Jason --- Benson | No scoresheet in hand | 🔍 Currently under review |
+| **Board 07** | Matthew Wong --- Alex | Forfeit (+ : -) | 🛑 Game Omitted |
+| **Board 10** | Sixing Li --- Remy Chan | No scoresheet in hand | 🔍 Currently under review |
+| **Board 12** | Kobe Ho --- Katrina | Forfeit (+ : -) | 🛑 Game Omitted |
+| **Board 15** | Kyle Ho --- Luka | Missing or illegal moves | 🔍 Currently under review |
+| **Board 21** | Theo --- Aden | Forfeit (- : +) | 🛑 Game Omitted |
 
 - **Status Summary:**
   - 🛑 3 Games Omitted
@@ -89,10 +89,10 @@ This document tracks all games from the **43rd Macau Chess Open 2026** that enco
 ## Round 6
 | Board No | Matchup | Issue | Status |
 | :---: | :---: | :---: | :---: |
-| **Board 5** | Anderson vs. Jason | Missing or illegal moves | 🔍 Currently under review |
-| **Board 10** | Martin vs. Nelson | Possible uncompletion | 🔍 Currently under review |
-| **Board 16** | Gabriel vs. Serena | Possible uncompletion | 🔍 Currently under review |
-| **Board 19** | Aidan vs. Jicarus | Forfeit (+ : -) | 🛑 Game Omitted |
+| **Board 05** | Anderson --- Jason | Missing or illegal moves | 🔍 Currently under review |
+| **Board 10** | Martin --- Nelson | Possible uncompletion | 🔍 Currently under review |
+| **Board 16** | Gabriel --- Serena | Possible uncompletion | 🔍 Currently under review |
+| **Board 19** | Aidan --- Jicarus | Forfeit (+ : -) | 🛑 Game Omitted |
 
 - **Status Summary:**
   - 🛑 1 Game Omitted
@@ -100,4 +100,17 @@ This document tracks all games from the **43rd Macau Chess Open 2026** that enco
 
 ---
 
-> **Last Update:** 14/11/2026 10:00 p.m.
+## Round 7
+| Board No | Matchup | Issue | Status |
+| :---: | :---: | :---: | :---: |
+| **Board 02** | Tyler --- Andy | Forfeit (+ : -) | 🛑 Game Omitted |
+| **Board 15** | Aidan --- Rafael | Missing or illegal moves | 🛑 Game Omitted |
+| **Board 19** | Serena --- Jicarus | Forfeit (+ : -) | 🛑 Game Omitted
+
+- **Status Summary:**
+  - 🛑 3 Games Omitted
+  - 🔍 0 Games Currently under review
+
+---
+
+> **Last Update:** 14/11/2026 11:02 p.m.
