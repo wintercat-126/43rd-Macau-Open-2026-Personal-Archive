@@ -378,7 +378,7 @@ Kh1 Ra1# 0-1
 [WhiteCountry "MAC"]
 [BlackCountry "MAC"]
 [Result "1-0"]
-[Termination "White Won by resignation"]
+[Termination "White Won by checkmate"]
 [TimeControl "5400+30"]
 [Board "23"]
 
