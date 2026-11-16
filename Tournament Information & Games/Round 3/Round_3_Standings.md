@@ -62,21 +62,39 @@
 - Positions **01 - 04:** 3/3
   - **Score:** 100.00%
   - **Distribution:** 8.70%
+
+---
+
 - Positions **05 - 06:** 2.5/3
   - **Score:** 83.33%
   - **Distribution:** 4.35%
+
+---
+
 - Positions **07 - 21:** 2/3
   - **Score:** 66.67%
   - **Distribution:** 32.61%
+
+---
+
 - Positions **22 - 23:** 1.5/3
   - **Score:** 50.00%
   - **Distribution:** 4.35%
+
+---
+
 - Positions **24 - 37:** 1/3
   - **Score:** 33.33%
   - **Distribution:** 30.43%
+
+---
+
 - Positions **38 - 39:** 0.5/3
   - **Score:** 16.67%
   - **Distribution:** 4.35%
+
+---
+
 - Positions **40 - 46:** 0/3
   - **Score:** 0.00%
   - **Distribution:** 15.22%
