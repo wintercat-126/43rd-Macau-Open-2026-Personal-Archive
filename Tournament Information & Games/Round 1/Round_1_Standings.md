@@ -60,8 +60,8 @@
 
 ## Standings Summary
 - Positions **01 - 20:** 1/1
-  - **Score:** 100%
-  - **Percentile:** 50%
+  - **Score:** 100.00%
+  - **Percentile:** 50.00%
 - Positions **21 - 46:** 0/1
-  - **Score:** 0%
-  - **Percentile:** 50%
+  - **Score:** 0.00%
+  - **Percentile:** 50.00%
