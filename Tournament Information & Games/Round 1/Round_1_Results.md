@@ -11,7 +11,7 @@
 ---
 
 | Board No. | White Name | Seed | Age Group | Score | Result | Score | Age Group | Seed | Black Name |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | 1 | Joao Roxo | 1 | Open | 0 | 1 - 0 | 0 | U12 | 21 | Kobe Ho |
 | 2 | Louis | 22 | U12 | 0 | 0 - 1 | 0 | Open | 2 | Tyler |
 | 3 | Benson | 3 | Open | 0 | 1 - 0 | 0 | U12 | 23 | Ezra |
