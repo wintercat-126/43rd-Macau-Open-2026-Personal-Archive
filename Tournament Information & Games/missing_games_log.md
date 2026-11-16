@@ -2,15 +2,15 @@
 
 This document tracks all games from the **43rd Macau Chess Open 2026** that encountered issues such as forfeits, missing scoresheets, illegal moves, or uncompleted game scores.
 
-### Status Definitions
-* **🛑 Game Omitted:** The game is permanently excluded from this archive.
-* **🔍 Currently under review:** The game is being checked; there is a possibility it may be updated and added to the archive if a valid recovery is found.
+## Status Definitions
+- **🛑 Game Omitted:** The game is permanently excluded from this archive.
+- **🔍 Currently under review:** The game is being checked; there is a possibility it may be updated and added to the archive if a valid recovery is found.
 
-### Issue Definitions
-* **Uncompleted game score:** The scoresheet is incomplete, left mostly blank, or cuts off after only the first few moves.
-* **Missing or illegal moves:** The recorded scoresheet contains missing notation and/or illegal moves.
-* **Forfeit (+ : - / - : + / = : =):** The game was decided by a forfeit or default rather than standard play.
-* **No scoresheet in hand:** The physical scoresheet was missing or uncollected at the end of the round.
+## Issue Definitions
+- **Uncompleted game score:** The scoresheet is incomplete, left mostly blank, or cuts off after only the first few moves.
+- **Missing or illegal moves:** The recorded scoresheet contains missing notation and/or illegal moves.
+- **Forfeit (`+ : -` / `- : +` / `= : =`):** The game was decided by a forfeit or default rather than standard play.
+- **No scoresheet in hand:** The physical scoresheet was missing or uncollected at the end of the round.
 
 ---
 
