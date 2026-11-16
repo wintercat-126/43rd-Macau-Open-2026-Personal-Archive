@@ -27,7 +27,7 @@
 | 13 | Charles | 25 | U12 | 3 | : | 3 | U10 | 34 | McKenna |
 | 14 | Rory | 39 | U8 | 3 | : | 3 | U12 | 43 | Miles |
 | 15 | Rafael | 20 | U12 | 2.5 | : | 2.5 | U16 | 11 | Remy Chan |
-| 16 | Serena | 12 | U16 | 2.5 | : | 2.5 | U8 | 33 | Aidan |
+| 16 | Serena | 12 | U16 | 2.5 | : | 2.5 | U10 | 33 | Aidan |
 | 17 | Luka | 30 | U10 | 2.5 | : | 2.5 | U8 | 38 | Hinhin |
 | 18 | Fernando | 26 | U12 | 2 | : | 2 | U12 | 22 | Louis |
 | 19 | Theo | 24 | U12 | 1 | : | 1.5 | U10 | 32 | Matias |
