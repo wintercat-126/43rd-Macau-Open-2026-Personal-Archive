@@ -1,0 +1,82 @@
+# Round 3 Standings
+
+## Tiebreak Definition
+- **M-Buch (Median Buchholz):** The sum of your opponents' scores, dropping the highest and lowest scoring opponents.
+- **Buch (Buchholz):** The total sum of all your opponents' scores.
+- **Progr. (Progressive Score):** The running sum of your own cumulative score after each round.
+
+---
+
+| Place | Name | Seed | Age Group | Score | M-Buch | Buch | Progr. |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | Kyle Tang | 9 | U16 | 3 | 2.0 | 5.5 | 6.0 |
+| 2 | Tyler | 2 | Open | 3 | 2.0 | 4.0 | 6.0 |
+| 3 | Hazel | 8 | U16 | 3 | 2.0 | 4.0 | 6.0 |
+| 4 | David | 6 | U18 | 3 | 1.0 | 3.5 | 6.0 |
+| 5 | Matthew Wong | 14 | U14 | 2.5 | 1.5 | 4.0 | 5.0 |
+| 6 | Andy | 4 | U18 | 2.5 | 1.5 | 3.0 | 5.0 |
+| 7 | Julian | 16 | U14 | 2 | 2.5 | 6.0 | 5.0 |
+| 8 | Alfred | 18 | U14 | 2 | 2.0 | 6.0 | 5.0 |
+| 9 | Thomas | 15 | U14 | 2 | 2.0 | 6.0 | 4.0 |
+| 10 | Elvan | 5 | U18 | 2 | 2.0 | 5.0 | 4.0 |
+| 11 | Anderson | 37 | U8 | 2 | 1.5 | 5.5 | 5.0 |
+| 12 | McKenna | 34 | U10 | 2 | 1.5 | 5.0 | 3.0 |
+| 13 | Benson | 3 | Open | 2 | 1.5 | 4.5 | 4.0 |
+| 14 | Jason | 13 | U16 | 2 | 1.0 | 5.0 | 5.0 |
+| 15 | Sixing Li | 29 | U10 | 2 | 1.0 | 5.0 | 3.0 |
+| 16 | Ezra | 23 | U12 | 2 | 1.0 | 4.5 | 3.0 |
+| 17 | Reve | 27 | U12 | 2 | 1.0 | 4.0 | 4.0 |
+| 18 | Lon | 40 | U16 | 2 | 1.0 | 4.0 | 4.0 |
+| 19 | Charles | 25 | U12 | 2 | 1.0 | 4.0 | 3.0 |
+| 20 | Jayden Lam | 35 | U8 | 2 | 1.0 | 3.0 | 3.0 |
+| 21 | Alex | 41 | Open | 2 | 1.0 | 3.0 | 3.0 |
+| 22 | Luka | 30 | U10 | 1.5 | 2.5 | 6.0 | 4.0 |
+| 23 | Joao Roxo | 1 | Open | 1.5 | 2.5 | 5.5 | 4.0 |
+| 24 | Matias | 32 | U10 | 1 | 2.0 | 6.0 | 3.0 |
+| 25 | Fernando | 26 | U12 | 1 | 2.0 | 6.0 | 2.0 |
+| 26 | Rory | 39 | U8 | 1 | 2.0 | 4.5 | 3.0 |
+| 27 | Nelson | 17 | U14 | 1 | 2.0 | 4.5 | 2.0 |
+| 28 | Aidan | 33 | U10 | 1 | 2.0 | 4.5 | 2.0 |
+| 29 | Hinhin | 38 | U8 | 1 | 2.0 | 4.5 | 2.0 |
+| 30 | Kobe Ho | 21 | U12 | 1 | 1.5 | 4.0 | 1.0 |
+| 31 | Miles | 43 | U12 | 1 | 1.5 | 3.5 | 2.0 |
+| 32 | Katrina | 46 | Open | 1 | 1.5 | 3.5 | 2.0 |
+| 33 | Martin | 42 | U16 | 1 | 1.5 | 3.5 | 1.0 |
+| 34 | Alvin Cheang | 44 | U10 | 1 | 1.5 | 3.5 | 1.0 |
+| 35 | Remy Chan | 11 | U16 | 1 | 1.0 | 3.5 | 3.0 |
+| 36 | Serena | 12 | U16 | 1 | 1.0 | 3.0 | 2.0 |
+| 37 | Antonio | 45 | U10 | 1 | 1.0 | 2.5 | 1.0 |
+| 38 | Kyle Ho | 31 | U10 | 0.5 | 1.0 | 3.0 | 0.5 |
+| 39 | Gabriel Lo | 19 | U12 | 0.5 | 1.0 | 2.5 | 0.5 |
+| 40 | Mike Ng | 7 | U16 | 0 | 3.5 | 3.5 | 0.0 |
+| 41 | Chase | 10 | U16 | 0 | 2.5 | 2.5 | 0.0 |
+| 42 | Louis | 22 | U12 | 0 | 2.0 | 7.0 | 0.0 |
+| 43 | Jicarus | 28 | U10 | 0 | 1.0 | 5.0 | 0.0 |
+| 44 | Theo | 24 | U12 | 0 | 1.0 | 4.5 | 0.0 |
+| 45 | Rafael | 20 | U12 | 0 | 1.0 | 4.0 | 0.0 |
+| 46 | Aden | 36 | U8 | 0 | 1.0 | 3.0 | 0.0 |
+
+---
+
+## Standings Summary
+- Positions **01 - 04:** 3/3
+  - **Score:** 100.00%
+  - **Distribution:** 8.70%
+- Positions **05 - 06:** 2.5/3
+  - **Score:** 83.33%
+  - **Distribution:** 4.35%
+- Positions **07 - 21:** 2/3
+  - **Score:** 66.67%
+  - **Distribution:** 32.61%
+- Positions **22 - 23:** 1.5/3
+  - **Score:** 50.00%
+  - **Distribution:** 4.35%
+- Positions **24 - 37:** 1/3
+  - **Score:** 33.33%
+  - **Distribution:** 30.43%
+- Positions **38 - 39:** 0.5/3
+  - **Score:** 16.67%
+  - **Distribution:** 4.35%
+- Positions **40 - 46:** 0/3
+  - **Score:** 0.00%
+  - **Distribution:** 15.22%
