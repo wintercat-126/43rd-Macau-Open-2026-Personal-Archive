@@ -60,14 +60,23 @@
 
 ## Standings Summary
 - Positions **01 - 08:** 2/2
-  - **Score:** 100%
+  - **Score:** 100.00%
   - **Distribution:** 17.39%
+
+---
+
 - Positions **09 - 12:** 1.5/2
-  - **Score:** 75%
+  - **Score:** 75.00%
   - **Distribution:** 8.70%
+
+---
+
 - Positions **13 - 33:** 1/2
-  - **Score:** 50%
+  - **Score:** 50.00%
   - **Distribution:** 45.65%
+
+---
+
 - Positions **34 - 46:** 0/2
-  - **Score:** 0%
+  - **Score:** 0.00%
   - **Distribution:** 28.26%
