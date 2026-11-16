@@ -104,14 +104,11 @@ This document tracks all games from the **43rd Macau Chess Open 2026** that enco
 | Board No | Matchup | Issue | Status |
 | :---: | :---: | :---: | :---: |
 | **Board 02** | Tyler --- Andy | Forfeit (+ : -) | 🛑 Game Omitted |
-| **Board 06** | Elvan --- Kyle Ho | Missing or illegal moves | 🔍 Currently under review |
 | **Board 15** | Aidan --- Rafael | Missing or illegal moves | 🛑 Game Omitted |
 | **Board 19** | Serena --- Jicarus | Forfeit (+ : -) | 🛑 Game Omitted
 
 - **Status Summary:**
   - 🛑 3 Games Omitted
-  - 🔍 1 Game Currently under review
+  - 🔍 0 Game Currently under review
 
 ---
-
-> **Last Update:** 15/11/2026 4:30 p.m.
