@@ -62,6 +62,7 @@
 - Positions **01 - 20:** 1/1
   - **Score:** 100%
   - **Percentile:** 50%
+  
 - Positions **21 - 46:** 0/1
   - **Score:** 0%
   - **Percentile:** 50%
