@@ -36,6 +36,7 @@
 ---
 
 ## Result Summary
+- Total Boards: 20
 - White Won: 10 (50.00%)
 - Black Won: 10 (50.00%)
 - Draw: 0 (00.00%)
