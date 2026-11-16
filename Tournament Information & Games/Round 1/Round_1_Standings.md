@@ -1,6 +1,6 @@
 # Round 1 Standings
 
-## Tiebreak Definention
+## Tiebreak Definition
 - **M-Buch (Median Buchholz):** The sum of your opponents' scores, dropping the highest and lowest scoring opponents.
 - **Buch (Buchholz):** The total sum of all your opponents' scores.
 - **Progr. (Progressive Score):** The running sum of your own cumulative score after each round.
@@ -61,7 +61,10 @@
 ## Standings Summary
 - Positions **01 - 20:** 1/1
   - **Score:** 100.00%
-  - **Distribution:** 50.00%
+  - **Distribution:** 43.48%
+
+---
+
 - Positions **21 - 46:** 0/1
   - **Score:** 0.00%
-  - **Distribution:** 50.00%
+  - **Distribution:** 56.52%
