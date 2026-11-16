@@ -15,9 +15,3 @@ There is also a Lichess Broadcast that I created. You could view games by rounds
 - Please keep this broadcast link private and for personal viewing only.
 
 Thanks!
-
----
-
-> **Last Update (README.md):** 15/11/2026 4:32 p.m.  
-> **Last Update (missing_games_log.md):** 15/11/2026 4:30 p.m.  
-> **Last Update (Tournament Information & Games Folder):** 15/11/2026 4:28 p.m.
