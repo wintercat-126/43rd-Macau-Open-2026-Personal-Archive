@@ -11,7 +11,7 @@
 ---
 
 | Board No. | White Name | Seed | Age Group | Score | Result | Score | Age Group | Seed | Black Name |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | 1 | Matthew Wong | 14 | U14 | 1 | 1/2 - 1/2 | 1 | Open | 1 | Joao Roxo |
 | 2 | Tyler | 2 | Open | 1 | 1 - 0 | 1 | U14 | 15 | Thomas |
 | 3 | Julian | 16 | U14 | 1 | + : - | 1 | Open | 3 | Benson |
