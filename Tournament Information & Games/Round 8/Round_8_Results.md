@@ -37,6 +37,6 @@
 
 ## Result Summary
 - Total Boards: 20
-- White Won: 11 (9 regular, 2 by forfeit)
-- Black Won: 7 (5 regular, 2 by forfeit)
-- Draw: 2
+- White Won: 11 (55.00%, including 2 by forfeit)
+- Black Won: 7 (35.00%, including 2 by forfeit)
+- Draw: 2 (10.00%)
