@@ -57,14 +57,3 @@
 | 46 | | | | | | | |
 
 ---
-
-## Standings Summary
-- Position **01:** /9
-  - **Score:** %
-  - **Distribution:** %
-
----
-
-- Positions **XX - XX:** /9
-  - **Score:** %
-  - **Distribution:** %
