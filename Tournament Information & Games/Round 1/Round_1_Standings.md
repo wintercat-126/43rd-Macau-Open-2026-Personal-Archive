@@ -57,14 +57,3 @@
 | 46 | Eli | 46 | Open | 0 | 0.5 | 0.5 | 0.0 |
 
 ---
-
-## Standings Summary
-- Positions **01 - 20:** 1/1
-  - **Score:** 100.00%
-  - **Distribution:** 43.48%
-
----
-
-- Positions **21 - 46:** 0/1
-  - **Score:** 0.00%
-  - **Distribution:** 56.52%
